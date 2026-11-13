@@ -1,0 +1,8 @@
+{
+  "name": "Remix ArizoTek — AI \u0026 IT Automation Solutions",
+  "description": "ArizoTek helps small and mid-sized businesses eliminate repetitive tasks, streamline operations, and improve productivity through intelligent AI and IT automation solutions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
